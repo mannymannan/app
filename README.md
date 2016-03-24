@@ -1,3 +1,3 @@
-This is the GitHub repository for our COMP210 project.
+This is the GitHub repository for our COMP210 project 'UCLU Islamic Society' App. 
 The members of our group are Munawar Mannan, Mahmudur Rahman and Tanvir Ahmed.
-Our app is for a society in our university. 
+Our app is for a society in our university and to help members keep up to date and integrated. 
